@@ -242,6 +242,10 @@ footer p{
     .red img{
     max-width: 25px;
     }
+    
+    .red h1{
+    font-size 8pt;
+    }
 
      .logop{
          max-width: 75px;
