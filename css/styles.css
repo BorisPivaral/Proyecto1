@@ -127,6 +127,10 @@ body{
     
 }
 
+.banner{
+max-width: 1000px;
+}
+
 
 /*Propiedades de los textos*/
 .titulo{
@@ -262,6 +266,10 @@ footer p{
     
     .imgcontainer{
         z-index: 0;
+    }
+    
+    .banner{
+    max-width: 800px;
     }
 
 }
