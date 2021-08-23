@@ -127,7 +127,7 @@ body{
     
 }
 
-.banner{
+.contenedor .banner{
 max-width: 600px;
 }
 
@@ -268,7 +268,7 @@ footer p{
         z-index: 0;
     }
     
-    .banner{
+    .contenedor .banner{
     max-width: 300px;
     }
 
