@@ -128,7 +128,7 @@ body{
 }
 
 .banner{
-max-width: 1000px;
+max-width: 600px;
 }
 
 
@@ -269,7 +269,7 @@ footer p{
     }
     
     .banner{
-    max-width: 800px;
+    max-width: 300px;
     }
 
 }
